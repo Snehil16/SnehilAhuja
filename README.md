@@ -52,8 +52,7 @@
       />
       <br /><strong>Bootstrap</strong>
   </td>
-  
-    <td align="center" height="108" width="108">
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
